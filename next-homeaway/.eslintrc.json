@@ -8,5 +8,8 @@
     "public/",
     "*.config.js",
     "components/ui/"
-  ]
+  ],
+  "rules": {
+    "@typescript-eslint/no-explicit-any": "off"
+  },
 }
